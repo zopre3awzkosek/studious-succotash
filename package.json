@@ -1,0 +1,25 @@
+{
+  "name": "studious-succotash",
+  "version": "1.0.0",
+  "description": "Leaning the basics of JS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zopre3awzkosek/studious-succotash.git"
+  },
+  "dependencies": {
+    "redesigned-octo-winner": "1.0.0",
+    "ubiquitous-octo-engine": "1.0.0",
+    "legendary-robot": "1.0.0",
+    "friendly-barnacle": "1.0.0"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zopre3awzkosek/studious-succotash/issues"
+  },
+  "homepage": "https://github.com/zopre3awzkosek/studious-succotash#readme"
+}
