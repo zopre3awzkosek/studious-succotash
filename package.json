@@ -1,6 +1,6 @@
 {
   "name": "studious-succotash",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Leaning the basics of JS",
   "main": "index.js",
   "scripts": {
@@ -8,14 +8,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/zopre3awzkosek/studious-succotash.git"
+    "url": "https://github.com/zopre3awzkosek/studious-succotash.git"
   },
   "dependencies": {
     "redesigned-octo-winner": "1.0.0",
-    "ubiquitous-octo-engine": "1.0.0",
-    "legendary-robot": "1.0.0",
-    "friendly-barnacle": "1.0.0",
-    "fictional-guacamole": "1.0.0"
+    "ubiquitous-octo-engine": "1.0.1",
+    "legendary-robot": "1.0.1",
+    "friendly-barnacle": "1.0.1",
+    "fictional-guacamole": "1.0.1",
+    "data-structures-by-a1lexen": "1.0.1"
   },
   "author": "",
   "license": "ISC",
